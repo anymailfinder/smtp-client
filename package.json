@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "promised-timeout": "0.5.1",
-    "smtp-client": "git://github.com/anymailfinder/smtp-channel.git"
+    "smtp-channel": "git://github.com/anymailfinder/smtp-channel.git"
   }
 }
